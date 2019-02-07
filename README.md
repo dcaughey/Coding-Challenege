@@ -8,7 +8,9 @@ What: This simple applications takes input from a .csv file to "auto-magically" 
 The .cvs file is expected to be named "MerakiInventory.csv" and contains the site or network, device model, serial number and "working name", below is the actual data within the file.
 
 network,device,serial-no,name
+
 site01,MX60,Q2BN-6FFY-D5X9,Old MX60
+
 site01,MR24,Q2ED-CKGM-MP6V,Old MR24
 
 Dependancies:
