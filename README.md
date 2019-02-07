@@ -30,6 +30,7 @@ Adding the device 'MX60' with serial# 'Q2BN-6FFY-D5X9' and named 'Old MX60' in n
     Add/Claim Device Serial# 'Q2BN-6FFY-D5X9' to site/network 'site01'    
     Updated Device with local name 'Old MX60' and device name 'MX60' in notes fields
 
+
 Adding the device 'MR24' with serial# 'Q2ED-CKGM-MP6V' and named 'Old MR24' in network 'site01'
 
   Network 'site01' exists adding device  
