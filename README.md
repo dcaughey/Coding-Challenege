@@ -25,11 +25,13 @@ The script will output progress messages as it works it's way thru the process a
 Test-Programs dcaughey1$ python Meraki-Inv.py
 
 Adding the device 'MX60' with serial# 'Q2BN-6FFY-D5X9' and named 'Old MX60' in network 'site01'
+
   Successfully added New network 'site01' to Organization  
     Add/Claim Device Serial# 'Q2BN-6FFY-D5X9' to site/network 'site01'    
     Updated Device with local name 'Old MX60' and device name 'MX60' in notes fields
 
 Adding the device 'MR24' with serial# 'Q2ED-CKGM-MP6V' and named 'Old MR24' in network 'site01'
+
   Network 'site01' exists adding device  
     Add/Claim Device Serial# 'Q2ED-CKGM-MP6V' to site/network 'site01'    
     Updated Device with local name 'Old MR24' and device name 'MR24' in notes fields
